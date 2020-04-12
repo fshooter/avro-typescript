@@ -1,6 +1,6 @@
 {
-  "name": "@mediatoolkit/avro-typescript",
-  "version": "0.0.5",
+  "name": "@pandorascloud/avro-typescript",
+  "version": "0.0.6",
   "description": "TypeSript code generator for Apache Avro types",
   "main": "./lib/index.js",
   "typings": "lib/index.d.ts",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joewood/avro-typescript.git"
+    "url": "git+https://github.com/pandorascloud/avro-typescript.git"
   },
   "readme": "READMD.md",
   "types": "./lib/index.d.ts",
@@ -25,11 +25,14 @@
     "typescript"
   ],
   "author": "Joe Wood",
+  "maintainers": [
+    "Davide Berdin"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joewood/avro-typescript/issues"
+    "url": "https://github.com/pandorascloud/avro-typescript/issues"
   },
-  "homepage": "https://github.com/joewood/avro-typescript#readme",
+  "homepage": "https://github.com/pandorascloud/avro-typescript#readme",
   "devDependencies": {
     "@types/jest": "^25.1.4",
     "@types/node": "^7.0.22",
